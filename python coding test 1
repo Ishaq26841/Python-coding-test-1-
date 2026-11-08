@@ -1,0 +1,18 @@
+print("==== Number guessing game ====")
+
+print("Picking a random number of 1 to 50")
+
+import random
+
+bot = random.randint(1,50)
+
+lives = 0
+player_guess = int(input("Guess the number..."))
+
+while  == lives = 5:
+    print("Out of lives. you lose!")
+    continue
+
+
+
+
